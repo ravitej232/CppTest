@@ -1,7 +1,3 @@
-// Messaging.cpp : Defines the entry point for the console application.
-//
-// I have tested this on Windows, so only below header was added.
-//#include "stdafx.h"
 #include "RequestMessage.h"
 
 RequestMessage::RequestMessage() {}

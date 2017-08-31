@@ -1,5 +1,3 @@
-// I have tested this on Windows, so only below header was added.
-//#include "stdafx.h"
 #include <iostream>
 
 enum MessageType

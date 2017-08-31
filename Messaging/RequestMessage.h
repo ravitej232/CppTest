@@ -5,6 +5,7 @@
 #include <exception>
 #include "IRequestMessage.h"
 #include <mutex>
+#include <memory>
 
 
 // Implementation of the Interface IRequestMessage
